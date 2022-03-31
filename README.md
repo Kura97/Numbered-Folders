@@ -1,7 +1,7 @@
 # Numbered-Folders
 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/asqlaRA.png">
+  <img width="414" height="258" src="https://i.imgur.com/asqlaRA.png">
 </p>
 
 
