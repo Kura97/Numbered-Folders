@@ -1,8 +1,10 @@
 # Numbered-Folders-creator
 
+
 <p align="center">
-  <img width="414" height="258" src="https://i.imgur.com/asqlaRA.png">
+  <img src="https://i.imgur.com/asqlaRA.png" />
 </p>
+
 
 
 تطبيق بسيط لانشاء مجلدات مرقمة تصاعدياً
