@@ -1,4 +1,4 @@
-# Numbered-Folders-creator
+# Numbered-folders-creator
 
 
 <p align="center">
