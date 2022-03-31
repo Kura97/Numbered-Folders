@@ -1,4 +1,4 @@
-# Numbered-Folders
+# Numbered-Folders-creator
 
 <p align="center">
   <img width="414" height="258" src="https://i.imgur.com/asqlaRA.png">
