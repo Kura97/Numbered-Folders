@@ -1,6 +1,8 @@
 # Numbered-Folders
 
-![alt text](https://i.imgur.com/asqlaRA.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/asqlaRA.png">
+</p>
 
 
 تطبيق بسيط لانشاء مجلدات مرقمة تصاعديا
